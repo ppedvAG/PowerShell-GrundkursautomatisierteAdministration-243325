@@ -22,3 +22,19 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - ConfirmPreference
 - cmdlet
     - Aufbau Verb-Noun
+- Formatierung  der Ausgabe mit
+    ```powershell
+    Format-Tabe
+    Format-List
+    Format-Wide
+    ```
+- Einfache Ausgabe
+    ```powershell
+    Out-Host
+    Out-File
+    Out-Printer
+    ```
+- PipeLine1
+- Sortieren 
+- Messen
+- Selektieren
